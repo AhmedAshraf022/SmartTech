@@ -1,0 +1,16 @@
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Release\SmartTech.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Release\SmartTech.pdb
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Release\SmartTechAND.SmartTechAND.apk
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Release\SmartTechAND.SmartTechAND-Signed.apk
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Release\Xamarin.Controls.BarChart.Android.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\SmartTechAND.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\SmartTech.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\SmartTech.pdb
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\bin\SmartTechAND.SmartTechAND.apk
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\res\layout\result.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\res\layout\main.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\res\values\strings.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\res\values\style.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\res\drawable\smarttech.jpg
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\R.cs.flag
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\uploadflags.txt

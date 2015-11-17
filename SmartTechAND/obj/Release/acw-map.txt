@@ -1,0 +1,24 @@
+SmartTechAND.MainActivity, SmartTech;md50cc6a58cd2fe578f22c9b02e04ba3408.MainActivity
+SmartTechAND.MainActivity, SmartTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50cc6a58cd2fe578f22c9b02e04ba3408.MainActivity
+SmartTechAND.MainActivity;md50cc6a58cd2fe578f22c9b02e04ba3408.MainActivity
+smarttechand.MainActivity;md50cc6a58cd2fe578f22c9b02e04ba3408.MainActivity
+SmartTechAND.Result, SmartTech;md50cc6a58cd2fe578f22c9b02e04ba3408.Result
+SmartTechAND.Result, SmartTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50cc6a58cd2fe578f22c9b02e04ba3408.Result
+SmartTechAND.Result;md50cc6a58cd2fe578f22c9b02e04ba3408.Result
+smarttechand.Result;md50cc6a58cd2fe578f22c9b02e04ba3408.Result
+SmartTechAND.SplashScreen, SmartTech;md50cc6a58cd2fe578f22c9b02e04ba3408.SplashScreen
+SmartTechAND.SplashScreen, SmartTech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50cc6a58cd2fe578f22c9b02e04ba3408.SplashScreen
+SmartTechAND.SplashScreen;md50cc6a58cd2fe578f22c9b02e04ba3408.SplashScreen
+smarttechand.SplashScreen;md50cc6a58cd2fe578f22c9b02e04ba3408.SplashScreen
+BarChart.BarsView, Xamarin.Controls.BarChart.Android;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+BarChart.BarsView, Xamarin.Controls.BarChart.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+BarChart.BarsView;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+barchart.BarsView;md52f407beef8982c77d7f8d26db7c54cfe.BarsView
+BarChart.LevelsView, Xamarin.Controls.BarChart.Android;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+BarChart.LevelsView, Xamarin.Controls.BarChart.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+BarChart.LevelsView;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+barchart.LevelsView;md52f407beef8982c77d7f8d26db7c54cfe.LevelsView
+BarChart.BarChartView, Xamarin.Controls.BarChart.Android;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
+BarChart.BarChartView, Xamarin.Controls.BarChart.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
+BarChart.BarChartView;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView
+barchart.BarChartView;md52f407beef8982c77d7f8d26db7c54cfe.BarChartView

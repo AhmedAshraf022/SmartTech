@@ -1,0 +1,6 @@
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\assets\SmartTech.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\assets\mscorlib.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\assets\System.Core.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\assets\System.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Release\android\assets\Xamarin.Controls.BarChart.Android.dll

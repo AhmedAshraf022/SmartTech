@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:id="@+id/txtQuestition1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How do You rate the brands variety?"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20dip" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutAnswer1"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent">
+        <TableRow
+            android:gravity="center_horizontal">
+            <Button
+                android:id="@+id/btnAnswer1Excellent"
+                android:layout_column="0"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Excellent" />
+            <Button
+                android:id="@+id/btnAnswer1Good"
+                android:layout_column="1"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Good" />
+            <Button
+                android:id="@+id/btnAnswer1Fair"
+                android:layout_column="2"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Fair" />
+            <Button
+                android:id="@+id/btnAnswer1Poor"
+                android:layout_column="3"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Poor" />
+        </TableRow>
+    </TableLayout>
+    <TextView
+        android:id="@+id/txtQuestition2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How do You rate the staff attitude?"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20dip" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutAnswer2"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent">
+        <TableRow
+            android:gravity="center_horizontal">
+            <Button
+                android:id="@+id/btnAnswer2Excellent"
+                android:layout_column="0"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Excellent" />
+            <Button
+                android:id="@+id/btnAnswer2Good"
+                android:layout_column="1"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Good" />
+            <Button
+                android:id="@+id/btnAnswer2Fair"
+                android:layout_column="2"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Fair" />
+            <Button
+                android:id="@+id/btnAnswer2Poor"
+                android:layout_column="3"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Poor" />
+        </TableRow>
+    </TableLayout>
+    <TextView
+        android:id="@+id/txtQuestition3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How do You rate the prices for a quality?"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20dip" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutAnswer3"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent">
+        <TableRow
+            android:gravity="center_horizontal">
+            <Button
+                android:id="@+id/btnAnswer3Excellent"
+                android:layout_column="0"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Excellent" />
+            <Button
+                android:id="@+id/btnAnswer3Good"
+                android:layout_column="1"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Good" />
+            <Button
+                android:id="@+id/btnAnswer3Fair"
+                android:layout_column="2"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Fair" />
+            <Button
+                android:id="@+id/btnAnswer3Poor"
+                android:layout_column="3"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Poor" />
+        </TableRow>
+    </TableLayout>
+    <TextView
+        android:id="@+id/txtQuestition4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How do You rate the offers?"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:textSize="20dip" />
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutAnswer4"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent">
+        <TableRow
+            android:gravity="center_horizontal">
+            <Button
+                android:id="@+id/btnAnswer4Excellent"
+                android:layout_column="0"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Excellent" />
+            <Button
+                android:id="@+id/btnAnswer4Good"
+                android:layout_column="1"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Good" />
+            <Button
+                android:id="@+id/btnAnswer4Fair"
+                android:layout_column="2"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Fair" />
+            <Button
+                android:id="@+id/btnAnswer4Poor"
+                android:layout_column="3"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip"
+                android:text="Poor" />
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layoutResult"
+        android:gravity="bottom"
+        android:layout_gravity="bottom"
+        android:background="@android:color/transparent">
+        <TableRow
+            android:gravity="center_horizontal">
+            <TextView
+                android:id="@+id/txtResult1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Answer 1"
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip" />
+            <TextView
+                android:id="@+id/txtResult2"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Answer 2"
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip" />
+            <TextView
+                android:id="@+id/txtResult3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Answer 3"
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip" />
+            <TextView
+                android:id="@+id/txtResult4"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Answer 4"
+                android:textColor="@android:color/white"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip"
+                android:paddingBottom="20dip"
+                android:paddingTop="20dip" />
+        </TableRow>
+    </TableLayout>
+    <Button
+        android:id="@+id/btnResult"
+        android:text="Result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center" />
+</LinearLayout>

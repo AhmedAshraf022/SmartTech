@@ -1,0 +1,8 @@
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\SmartTech.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\System.Core.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\System.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\assemblies\Xamarin.Controls.BarChart.Android.dll

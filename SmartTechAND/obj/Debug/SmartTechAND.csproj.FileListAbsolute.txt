@@ -1,0 +1,15 @@
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Debug\SmartTech.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Debug\SmartTech.pdb
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Debug\SmartTechAND.SmartTechAND.apk
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Debug\SmartTechAND.SmartTechAND-Signed.apk
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\bin\Debug\Xamarin.Controls.BarChart.Android.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\SmartTech.dll
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\SmartTech.pdb
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\android\bin\SmartTechAND.SmartTechAND.apk
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\res\layout\result.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\res\layout\main.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\res\values\strings.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\res\values\style.xml
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\res\drawable\smarttech.jpg
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\R.cs.flag
+C:\Users\Ahmed\onedrive\documents\visual studio 2015\Projects\SmartTech\SmartTechAND\obj\Debug\uploadflags.txt
